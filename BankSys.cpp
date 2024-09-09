@@ -63,10 +63,7 @@ double deposit(){
       else{
         cout << "That's not a valid amount: \n";
         return 0;
-      }
-
-
-      
+      } 
 }
 
 double withdraw(double balance){
